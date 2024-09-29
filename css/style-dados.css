@@ -1,0 +1,40 @@
+.navbar {
+    width: 100%;
+    height: 10%;
+    background-color: goldenrod;
+}
+
+.navbar div {
+    font-family: Oswald;
+    font-weight: bold;
+    font-size: 55px;
+    letter-spacing: 1px;
+    margin: 0 auto;
+}
+
+.navbar h1 {
+    font-family: Oswald;
+    font-weight: bold;
+    font-size: 55px;
+    letter-spacing: 1px;
+}
+
+.fo {
+    width: 95%;
+}
+
+.xbtn {
+    border: none;
+    transition: 0.25s;
+    background-color: goldenrod;
+    position: absolute;
+}
+.xbtn:hover {
+    background-color: gold;
+}
+
+.bruh {
+    text-decoration: none;
+    color: black;
+}
+

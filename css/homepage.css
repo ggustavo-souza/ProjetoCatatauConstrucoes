@@ -1,0 +1,86 @@
+body {
+    background-color: whitesmoke;
+}
+.xbar {
+    background-color: goldenrod;
+    width: 100%;
+}
+.xbtnhover {
+    border: none;
+    transition: 0.25s;
+    background-color: gold;
+}
+.xbtnhover:hover {
+    background-color: yellow;
+}
+.xbtn {
+    border: none;
+    transition: 0.25s;
+    background-color: goldenrod;
+}
+.xbtn:hover {
+    background-color: gold;
+}
+.xbtn:focus {
+    background-color: gold;
+}
+.xtitulo {
+    font-family: Oswald;
+    font-weight: bold;
+    font-size: 55px;
+    letter-spacing: 1px;
+}
+.xescolha {
+    font-size: 30px;
+    font-family: Oswald;
+    font-style: Italic;
+    letter-spacing: 3px;
+}
+.xseumaterial {
+    font-size: 45px;
+    font-family: Oswald;
+    font-style: Italic;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.xdoseujeito {
+    font-size: 15px;
+    font-family: Arial;
+    letter-spacing: 2px;
+}
+.xbtnescolha {
+    background-color: goldenrod;
+    font-family: Arial;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 14px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    transition: 0.25s;
+}
+.xescolha2 {
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.xbtnescolha2 {
+    background-color: rgb(0, 195, 255);
+    font-family: Arial;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 14px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    transition: 0.25s;
+}
+.xcartxt {
+    font-family: Oswald;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-weight:bold;
+}
+
+.barraP {
+    width: 10%;
+}
